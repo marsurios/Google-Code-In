@@ -1,4 +1,4 @@
-#this ignores some python files
+# this ignores some python files
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
